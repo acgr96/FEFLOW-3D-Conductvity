@@ -9,3 +9,5 @@ it demosntrateds a few other tools that may be useful outside of this script suc
 - Applying custom mathematical function to pandas dataframe
 - Inner merge of data frames, and general operations on high-memory datasets, using Dask in tandem with pandas
 - Indexing and merging large data sets with "near equal" data by normalizing key data to integers and building a summation index.
+
+Repository contains separate (work in progress) script for 3D visualization of data being manipulated. This will eventually be integrated into the main notebook.
