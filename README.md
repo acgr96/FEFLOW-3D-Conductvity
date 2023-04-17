@@ -1,4 +1,4 @@
-# FEFLOW-3D-Conductvity
+# FEFLOW-3D-Data
 Script that can couple information from 3D point cloud models to a mesh exported from FEFLOW, then convert result to a FEFLOW readable table for parameter 
 linkage.
 
